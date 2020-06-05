@@ -1,0 +1,1 @@
+## Dockerfile for running superset with snowflakedb
